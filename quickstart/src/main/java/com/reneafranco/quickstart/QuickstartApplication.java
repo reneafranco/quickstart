@@ -8,6 +8,10 @@ public class QuickstartApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuickstartApplication.class, args);
-	}
+
+    System.out.println("Hello World Arch test");
+
+    System.out.println("Jdtls config ");
+  }
 
 }
