@@ -11,4 +11,13 @@ public class HelloWorld {
     public String helloWorld() {
         return "Hello World";
     }
+  
+    //this is a comment
+  public static void startHH(){
+
+    String x = "Test from nvim linea"
+    //This is a new test
+    System.out.println(x);
+  }
+
 }
